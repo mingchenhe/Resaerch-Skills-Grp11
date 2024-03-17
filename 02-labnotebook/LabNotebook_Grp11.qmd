@@ -1,0 +1,30 @@
+---
+title: "Lab Notebook Group 11"
+author: "Mingchen He, Devashree Joglekar, Theresa Schröder,Ylenia Muhja"
+abstract: "data collection"
+format: html
+editor: visual
+---
+
+## 15.3.2024
+
+### Goal for the day:
+
+-   Determine the final version of the questionnaire questions
+-   Translate the questionnaire into German and Chinese versions
+-   Test whether the questionnaire link works
+-   Distribute the questionnaire to people in four countries and collect responses
+
+### Outcomes
+
+-   Collected 37 responses from Albanians, 18 responses from Indians, 29 responses from Germans and 36 responses from Chinese
+
+### Details on Problem too little data volume
+
+-   Considering the rule of thumb of having at least 10 replicates per predictor, we need at least 100 responses. Therefore, at least 25 responses from each country are required. Therefore, we will continue to distribute questionnaires on Saturday (16.3) and Sunday (17.3) to collect more data.
+
+### 17.3.2024
+
+### Outcomes
+
+-   Collected 37 responses from Albanians, 26 responses from Indians, 32 responses from Germans and 45 responses from Chinese

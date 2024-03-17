@@ -1,0 +1,141 @@
+Time,Nation,Age,Gender,Q01,Q02,Q03,Q04,Q05,Q06,Q07,Q08,Q09,Q10,Q11
+3/15/2024 10:32:58,Chinese,24,Female,4,4,riskyfund,5,Op1.2,Op2.2,OpA1,OpA2,OpB3,OpB4,40
+3/15/2024 11:02:28,Albanian,25,Female,4,3,riskyfund,3,Op1.2,Op2.2,OpA1,OpA2,OpB3,OpB4,51
+3/15/2024 11:07:23,Albanian,21,Female,3,1,safefund,5,Op1.3,Op2.3,OpA1,OpB2,OpB3,OpB4,70
+3/15/2024 11:18:55,Albanian,21,Female,5,4,safefund,4,Op1.3,Op2.2,OpA1,OpA2,OpB3,OpB4,55
+3/15/2024 11:21:44,Albanian,22,Female,3,3,riskyfund,3,Op1.3,Op2.2,OpA1,OpA2,OpB3,OpB4,75
+3/15/2024 11:25:02,Albanian,21,Female,5,1,riskyfund,3,Op1.1,Op2.2,OpA1,OpA2,OpB3,OpB4,50
+3/15/2024 11:30:28,Albanian,27,Female,5,2,safefund,4,Op1.2,Op2.3,OpB1,OpB2,OpB3,OpB4,50
+3/15/2024 11:38:14,Albanian,22,Female,1,1,safefund,4,Op1.1,Op2.1,OpB1,OpB2,OpB3,OpB4,99
+3/15/2024 11:38:52,Albanian,20,Female,4,4,riskyfund,5,Op1.3,Op2.3,OpA1,OpA2,OpA3,OpA4,1 - 50 (50 numbers)
+3/15/2024 11:44:31,Albanian,38,Female,3,3,riskyfund,4,Op1.1,Op2.2,OpB1,OpB2,OpB3,OpB4,10
+3/15/2024 11:57:12,Albanian,32,Female,5,3,riskyfund,1,Op1.3,Op2.3,OpB1,OpB2,OpB3,OpB4,6
+3/15/2024 12:12:29,Albanian,22,Male,5,2,riskyfund,4,Op1.3,Op2.1,OpA1,OpA2,OpA3,OpB4,"17,55,30,32,31,86,87,44,35,26,8,53,62,71 (14 numbers)"
+3/15/2024 12:13:49,Albanian,29,Female,5,2,riskyfund,3,Op1.3,Op2.3,OpB1,OpB2,OpB3,OpA4,99
+3/15/2024 13:15:06,Albanian,21,Male,3,4,riskyfund,5,Op1.2,Op2.3,OpA1,OpA2,OpB3,OpB4,50
+3/15/2024 13:16:11,Chinese,26,Female,3,1,safefund,4,Op1.2,Op2.2,OpA1,OpA2,OpA3,OpA4,6
+3/15/2024 13:16:30,Indian,43,Female,1,5,riskyfund,3,Op1.1,Op2.3,OpB1,OpA2,OpB3,OpB4,50
+3/15/2024 13:18:14,Indian,22,Female,5,3,safefund,3,Op1.3,Op2.2,OpB1,OpB2,OpA3,OpB4,Till I get one dollar (10 numbers)
+3/15/2024 13:20:02,Indian,24,Female,3,3,safefund,4,Op1.2,Op2.2,OpA1,OpA2,OpA3,OpA4,"1,2,3,4,5,6,7,8,9,10 (10 numbers)"
+3/15/2024 13:23:33,Indian,24,Female,4,1,safefund,1,Op1.3,Op2.3,OpA1,OpA2,OpA3,OpA4,All (invalid)
+3/15/2024 13:25:13,Albanian,21,Male,1,3,riskyfund,4,Op1.3,Op2.3,OpA1,OpA2,OpB3,OpB4,99
+3/15/2024 13:26:32,Indian,49,Female,5,4,riskyfund,1,Op1.2,Op2.2,OpB1,OpA2,OpA3,OpA4,99
+3/15/2024 13:36:34,Albanian,29,Female,5,1,riskyfund,4,Op1.2,Op2.3,OpA1,OpB2,OpA3,OpB4,31
+3/15/2024 13:37:22,Indian,74,Male,1,1,safefund,4,Op1.2,Op2.3,OpA1,OpA2,OpA3,OpB4,Only one number (1)
+3/15/2024 13:42:19,Indian,35,Female,3,4,riskyfund,5,Op1.2,Op2.1,OpA1,OpB2,OpB3,OpA4,99
+3/15/2024 13:51:03,Indian,22,Female,1,3,safefund,1,Op1.1,Op2.3,OpB1,OpB2,OpB3,OpA4,49
+3/15/2024 13:52:13,Indian,27,Female,2,1,safefund,4,Op1.1,Op2.1,OpA1,OpA2,OpA3,OpA4,50
+3/15/2024 13:55:10,Indian,23,Female,4,1,safefund,4,Op1.1,Op2.1,OpA1,OpA2,OpA3,OpA4,50
+3/15/2024 13:59:34,Albanian,23,Male,5,3,riskyfund,3,Op1.3,Op2.2,OpA1,OpA2,OpA3,OpA4,2
+3/15/2024 14:01:37,Indian,23,Male,2,4,safefund,2,Op1.1,Op2.1,OpA1,OpA2,OpB3,OpB4,50
+3/15/2024 14:16:46,Indian,22,Male,5,5,riskyfund,1,Op1.3,Op2.3,OpA1,OpA2,OpB3,OpB4,99
+3/15/2024 14:21:26,Indian,23,Male,4,3,riskyfund,5,Op1.2,Op2.2,OpA1,OpA2,OpB3,OpB4,66
+3/15/2024 14:22:38,Albanian,29,Male,5,2,riskyfund,1,Op1.1,Op2.2,OpB1,OpB2,OpB3,OpB4,1
+3/15/2024 14:22:57,Albanian,24,Female,1,3,riskyfund,3,Op1.1,Op2.1,OpA1,OpA2,OpA3,OpA4,Didn‘t understand the question (invalid)
+3/15/2024 14:27:35,Albanian,20,Male,4,3,riskyfund,3,Op1.3,Op2.3,OpB1,OpB2,OpB3,OpB4,60
+3/15/2024 14:29:51,Indian,22,Female,4,4,riskyfund,5,Op1.2,Op2.2,OpB1,OpA2,OpA3,OpA4,20
+3/15/2024 14:35:46,Albanian,26,Male,1,2,safefund,2,Op1.2,Op2.2,OpA1,OpB2,OpA3,OpA4,26
+3/15/2024 14:38:44,Albanian,28,Male,3,1,riskyfund,3,Op1.3,Op2.3,OpA1,OpB2,OpA3,OpB4,88
+3/15/2024 15:19:12,Indian,21,Female,4,4,riskyfund,3,Op1.3,Op2.3,OpB1,OpB2,OpB3,OpB4,80
+3/15/2024 15:40:00,Indian,26,Male,5,3,safefund,3,Op1.2,Op2.2,OpA1,OpA2,OpB3,OpB4,60
+3/15/2024 16:03:36,Albanian,51,Female,2,2,riskyfund,3,Op1.3,Op2.2,OpA1,OpA2,OpB3,OpB4,100 (invalid)
+3/15/2024 16:18:30,Chinese,28,Female,4,4,safefund,2,Op1.1,Op2.1,OpA1,OpA2,OpB3,OpB4,1
+3/15/2024 16:23:06,Albanian,55,Female,5,3,riskyfund,3,Op1.3,Op2.3,OpA1,OpA2,OpA3,OpA4,7
+3/15/2024 16:42:49,Albanian,50,Female,5,5,riskyfund,5,Op1.3,Op2.3,OpB1,OpA2,OpB3,OpA4,9
+3/15/2024 16:57:15,Albanian,52,Female,1,2,riskyfund,5,Op1.1,Op2.1,OpA1,OpA2,OpA3,OpA4,99
+3/15/2024 17:00:30,Albanian,21,Male,4,3,riskyfund,4,Op1.1,Op2.3,OpA1,OpB2,OpA3,OpA4,10
+3/15/2024 17:01:50,Albanian,25,Female,4,3,safefund,4,Op1.1,Op2.2,OpA1,OpA2,OpA3,OpA4,. (invalid)
+3/15/2024 17:36:15,Albanian,21,Male,4,3,riskyfund,2,Op1.3,Op2.1,OpA1,OpA2,OpA3,OpB4,40
+3/15/2024 17:39:54,Indian,23,Male,5,5,riskyfund,1,Op1.3,Op2.3,OpA1,OpB2,OpB3,OpB4,80
+3/15/2024 18:32:40,Albanian,52,Female,3,3,safefund,1,Op1.3,Op2.3,OpA1,OpB2,OpB3,OpB4,Submint. (invalid)
+3/15/2024 19:31:57,Albanian,48,Female,5,4,riskyfund,4,Op1.3,Op2.2,OpA1,OpB2,OpA3,OpA4,90
+3/15/2024 19:52:24,Albanian,27,Female,3,3,riskyfund,3,Op1.3,Op2.3,OpA1,OpB2,OpA3,OpB4,28
+3/15/2024 20:00:08,Albanian,40,Female,1,1,safefund,5,Op1.1,Op2.1,OpA1,OpA2,OpA3,OpA4,1
+3/16/2024 0:00:02,Albanian,50,Female,5,3,safefund,2,Op1.3,Op2.1,OpB1,OpB2,OpA3,OpB4,23
+3/16/2024 0:08:07,Albanian,20,Male,1,1,riskyfund,1,Op1.2,Op2.2,OpA1,OpB2,OpB3,OpB4,65
+3/16/2024 0:18:00,Albanian,50,Female,5,1,riskyfund,3,Op1.2,Op2.2,OpB1,OpB2,OpB3,OpB4,99
+3/16/2024 3:52:59,Albanian,24,Male,2,3,riskyfund,1,Op1.3,Op2.3,OpB1,OpB2,OpB3,OpB4,76
+3/16/2024 3:53:01,Albanian,51,Female,5,3,riskyfund,1,Op1.3,Op2.3,OpB1,OpB2,OpB3,OpB4,79
+3/16/2024 6:44:23,Indian,23,Female,4,4,riskyfund,4,Op1.2,Op2.1,OpB1,OpB2,OpA3,OpA4,"4,8,13,31,40,94,76 (7 numbers)"
+3/16/2024 11:16:45,Indian,22,Male,5,1,riskyfund,4,Op1.1,Op2.1,OpB1,OpB2,OpB3,OpB4,65
+3/16/2024 11:47:50,Indian,50,Female,1,1,safefund,4,Op1.1,Op2.2,OpA1,OpA2,OpA3,OpA4,99
+3/16/2024 12:48:30,Indian,51,Male,1,1,safefund,1,Op1.3,Op2.3,OpA1,OpB2,OpB3,OpB4,99
+3/16/2024 13:22:13,Indian,35,Female,5,5,safefund,2,Op1.2,Op2.2,OpB1,OpA2,OpB3,OpB4,56
+3/16/2024 13:48:38,Indian,51,Male,5,5,riskyfund,3,Op1.2,Op2.2,OpA1,OpA2,OpA3,OpB4,33
+3/16/2024 14:11:07,Indian,49,Female,3,1,riskyfund,5,Op1.1,Op2.1,OpA1,OpA2,OpA3,OpA4,99
+3/16/2024 15:31:11,Indian,50,Female,4,1,safefund,1,Op1.2,Op2.1,OpA1,OpA2,OpA3,OpA4,99
+3/16/2024 18:54:31,Indian,20,Female,5,4,riskyfund,5,Op1.2,Op2.3,OpB1,OpA2,OpA3,OpB4,7
+3/15/2024 11:16:11,Germany,58,Female,1,1,safefund,2,Op1.2,Op2.3,OpA1,OpA2,OpB3,OpB4,66
+3/15/2024 11:16:26,Germany,23,Female,2,1,safefund,2,Op1.1,Op2.1,OpA1,OpA2,OpB3,OpB4,40
+3/15/2024 11:28:49,Germany,24,Female,4,3,safefund,4,Op1.1,Op2.1,OpA1,OpA2,OpB3,OpB4,42
+3/15/2024 11:30:51,Germany,24,Female,3,1,safefund,2,Op1.2,Op2.3,OpA1,OpB2,OpB3,OpB4,30
+3/15/2024 11:30:51,Germany,29,Male,2,2,safefund,1,Op1.2,Op2.3,OpB1,OpB2,OpB3,OpB4,69
+3/15/2024 11:31:17,Germany,22,Female,2,4,riskyfund,1,Op1.1,Op2.1,OpA1,OpA2,OpB3,OpB4,30
+3/15/2024 11:33:06,Germany,27,Female,1,2,safefund,3,Op1.2,Op2.3,OpA1,OpA2,OpB3,OpB4,50
+3/15/2024 11:34:39,Germany,22,Male,5,2,safefund,3,Op1.1,Op2.1,OpB1,OpA2,OpB3,OpA4,49
+3/15/2024 11:44:24,Germany,25,Female,4,1,safefund,2,Op1.2,Op2.2,OpA1,OpA2,OpB3,OpB4,70
+3/15/2024 11:45:32,Germany,30,Female,1,2,riskyfund,5,Op1.3,Op2.3,OpB1,OpB2,OpB3,OpB4,60
+3/15/2024 11:49:31,Germany,42,Male,1,3,safefund,1,Op1.1,Op2.2,OpA1,OpA2,OpA3,OpB4,100 (invalid)
+3/15/2024 11:53:47,Germany,27,Male,5,2,safefund,3,Op1.2,Op2.3,OpA1,OpA2,OpB3,OpB4,40
+3/15/2024 12:08:08,Germany,26,Female,1,2,safefund,1,Op1.1,Op2.2,OpA1,OpA2,OpA3,OpA4,20
+3/15/2024 12:12:15,Germany,29,Diverse,5,3,safefund,5,Op1.1,Op2.3,OpA1,OpA2,OpA3,OpB4,30
+3/15/2024 12:12:42,Germany,23,Male,4,4,safefund,5,Op1.1,Op2.3,OpA1,OpA2,OpB3,OpB4,50
+3/15/2024 12:15:39,Germany,33,Male,3,3,riskyfund,2,Op1.3,Op2.3,OpA1,OpA2,OpB3,OpB4,50
+3/15/2024 12:19:07,Germany,23,Female,4,4,safefund,1,Op1.1,Op2.1,OpA1,OpA2,OpA3,OpB4,30
+3/15/2024 12:21:07,Germany,26,Female,1,2,safefund,1,Op1.2,Op2.3,OpA1,OpA2,OpA3,OpA4,50
+3/15/2024 12:43:42,Germany,26,Female,5,2,safefund,4,Op1.1,Op2.3,OpA1,OpA2,OpB3,OpB4,60
+3/15/2024 14:05:25,Germany,23,Female,2,2,riskyfund,3,Op1.1,Op2.1,OpA1,OpA2,OpB3,OpB4,50
+3/15/2024 14:21:44,Germany,26,Female,3,4,safefund,4,Op1.1,Op2.3,OpA1,OpA2,OpB3,OpB4,33
+3/15/2024 15:54:43,Germany,22,Female,3,1,safefund,4,Op1.3,Op2.3,OpA1,OpA2,OpA3,OpB4,50
+3/15/2024 16:13:45,Germany,26,Female,1,1,safefund,3,Op1.1,Op2.1,OpA1,OpA2,OpA3,OpB4,22
+3/15/2024 16:16:53,Germany,23,Female,3,2,safefund,5,Op1.1,Op2.1,OpA1,OpA2,OpA3,OpB4,10
+3/15/2024 16:51:45,Germany,32,Female,1,1,safefund,2,Op1.1,Op2.1,OpA1,OpA2,OpA3,OpB4,60
+3/15/2024 18:26:50,Germany,23,Female,1,1,safefund,4,Op1.2,Op2.3,OpA1,OpA2,OpB3,OpB4,50
+3/16/2024 0:31:15,Germany,32,Male,3,3,safefund,4,Op1.2,Op2.3,OpA1,OpA2,OpB3,OpB4,50
+3/16/2024 0:39:05,Germany,25,Female,5,1,riskyfund,2,Op1.1,Op2.1,OpA1,OpA2,OpA3,OpB4,50
+3/16/2024 2:39:07,Germany,26,Female,2,2,safefund,2,Op1.2,Op2.3,OpA1,OpA2,OpB3,OpB4,40
+3/16/2024 16:10:32,Germany,26,Female,3,4,safefund,4,Op1.2,Op2.2,OpA1,OpA2,OpB3,OpB4,50
+3/16/2024 18:55:32,Germany,63,Female,1,1,safefund,2,Op1.1,Op2.1,OpA1,OpA2,OpA3,OpB4,50
+3/17/2024 10:19:04,Germany,68,Male,1,1,safefund,1,Op1.2,Op2.3,OpA1,OpA2,OpA3,OpB4,50
+2024/3/15 18:10:54,Chinese,27,Male,3,2,riskyfund,5,Op1.1,Op2.1,OpA1,OpA2,OpA3,OpB4,50
+2024/3/15 18:32:00,Chinese,49,Female,1,3,safefund,3,Op1.1,Op2.3,OpA1,OpA2,OpA3,OpA4,50
+2024/3/15 18:36:44,Chinese,52,Male,1,3,safefund,5,Op1.1,Op2.2,OpA1,OpA2,OpB3,OpB4,22
+2024/3/15 19:07:03,Chinese,28,Male,4,3,riskyfund,4,Op1.3,Op2.3,OpB1,OpB2,OpB3,OpB4,99
+2024/3/15 19:08:16,Chinese,28,Male,1,1,riskyfund,1,Op1.2,Op2.3,OpA1,OpA2,OpA3,OpA4,99
+2024/3/15 19:40:45,Chinese,45,Female,3,3,riskyfund,4,Op1.2,Op2.2,OpB1,OpB2,OpB3,OpB4,1
+2024/3/15 20:20:55,Chinese,27,Male,1,5,riskyfund,1,Op1.3,Op2.3,OpB1,OpB2,OpA3,OpB4,1
+2024/3/15 20:41:09,Chinese,29,Male,4,1,riskyfund,3,Op1.3,Op2.3,OpA1,OpB2,OpA3,OpB4,10
+2024/3/15 21:37:50,Chinese,24,Female,1,4,safefund,3,Op1.2,Op2.1,OpA1,OpB2,OpA3,OpA4,55
+2024/3/15 21:41:44,Chinese,25,Female,2,3,safefund,3,Op1.1,Op2.1,OpA1,OpA2,OpA3,OpA4,15
+2024/3/15 21:52:39,Chinese,30,Female,5,4,riskyfund,4,Op1.2,Op2.2,OpB1,OpB2,OpB3,OpB4,62
+2024/3/15 21:56:14,Chinese,36,Male,3,2,safefund,5,Op1.1,Op2.1,OpA1,OpA2,OpB3,OpA4,66
+2024/3/15 22:00:31,Chinese,41,Female,4,4,safefund,5,Op1.1,Op2.2,OpB1,OpB2,OpB3,OpB4,49
+2024/3/16 0:08:17,Chinese,36,Female,5,5,safefund,5,Op1.2,Op2.1,OpB1,OpB2,OpB3,OpB4,23
+2024/3/16 0:08:51,Chinese,29,Female,4,4,safefund,4,Op1.1,Op2.1,OpA1,OpB2,OpB3,OpA4,50
+2024/3/16 0:09:34,Chinese,26,Female,5,3,safefund,1,Op1.2,Op2.2,OpA1,OpA2,OpA3,OpB4,84
+2024/3/16 0:09:59,Chinese,39,Male,4,5,riskyfund,5,Op1.3,Op2.3,OpA1,OpA2,OpB3,OpA4,68
+2024/3/16 0:10:38,Chinese,43,Male,5,2,riskyfund,4,Op1.3,Op2.2,OpA1,OpA2,OpA3,OpA4,55
+2024/3/16 0:11:16,Chinese,33,Male,2,5,safefund,2,Op1.2,Op2.2,OpB1,OpB2,OpB3,OpB4,93
+2024/3/16 0:11:51,Chinese,43,Male,5,5,safefund,3,Op1.3,Op2.3,OpB1,OpA2,OpB3,OpB4,93
+2024/3/16 0:12:14,Chinese,35,Male,5,2,riskyfund,4,Op1.2,Op2.2,OpA1,OpA2,OpA3,OpB4,83
+2024/3/16 0:12:44,Chinese,34,Male,5,4,riskyfund,3,Op1.2,Op2.2,OpB1,OpB2,OpB3,OpB4,28
+2024/3/16 0:13:17,Chinese,38,Female,5,4,riskyfund,5,Op1.2,Op2.3,OpA1,OpA2,OpB3,OpA4,80
+2024/3/16 0:14:00,Chinese,25,Male,2,4,riskyfund,5,Op1.3,Op2.3,OpA1,OpB2,OpB3,OpA4,84
+2024/3/16 0:14:23,Chinese,40,Female,4,5,safefund,2,Op1.3,Op2.2,OpA1,OpA2,OpA3,OpA4,30
+2024/3/16 0:15:01,Chinese,38,Male,3,5,safefund,5,Op1.2,Op2.2,OpA1,OpA2,OpA3,OpB4,20
+2024/3/16 0:15:27,Chinese,32,Male,4,1,riskyfund,4,Op1.2,Op2.2,OpB1,OpB2,OpB3,OpA4,36
+2024/3/16 0:16:14,Chinese,29,Female,3,5,safefund,4,Op1.1,Op2.3,OpA1,OpA2,OpA3,OpA4,88
+2024/3/16 0:16:52,Chinese,25,Male,2,2,riskyfund,5,Op1.3,Op2.2,OpA1,OpA2,OpA3,OpB4,59
+2024/3/16 0:17:24,Chinese,34,Female,3,4,safefund,3,Op1.2,Op2.2,OpA1,OpB2,OpB3,OpA4,70
+2024/3/16 0:18:06,Chinese,31,Male,3,3,riskyfund,4,Op1.2,Op2.2,OpA1,OpA2,OpA3,OpA4,24
+2024/3/16 0:18:54,Chinese,25,Female,4,4,safefund,3,Op1.2,Op2.2,OpB1,OpB2,OpB3,OpB4,84
+2024/3/16 0:19:36,Chinese,36,Female,3,2,safefund,3,Op1.2,Op2.1,OpB1,OpB2,OpB3,OpB4,75
+2024/3/16 0:20:25,Chinese,37,Male,5,4,riskyfund,4,Op1.2,Op2.2,OpB1,OpA2,OpB3,OpB4,78
+2024/3/16 0:21:13,Chinese,31,Female,5,5,safefund,4,Op1.3,Op2.3,OpB1,OpB2,OpA3,OpA4,72
+2024/3/16 0:26:57,Chinese,28,Male,2,3,safefund,2,Op1.1,Op2.1,OpA1,OpA2,OpA3,OpA4,15
+2024/3/16 11:43:42,Chinese,53,Female,3,3,riskyfund,5,Op1.2,Op2.2,OpA1,OpB2,OpA3,OpB4,80
+2024/3/16 18:07:50,Chinese,24,Female,5,1,safefund,5,Op1.1,Op2.1,OpA1,OpA2,OpA3,OpB4,50
+2024/3/16 19:02:26,Chinese,25,Female,1,3,safefund,2,Op1.2,Op2.1,OpA1,OpB2,OpA3,OpB4,92
+2024/3/16 19:07:05,Chinese,25,Female,4,2,safefund,5,Op1.1,Op2.1,OpA1,OpA2,OpA3,OpB4,80
+2024/3/16 19:07:24,Chinese,26,Female,2,4,safefund,2,Op1.1,Op2.3,OpA1,OpA2,OpA3,OpB4,99
+2024/3/16 19:12:24,Chinese,25,Male,1,2,safefund,1,Op1.3,Op2.1,OpA1,OpA2,OpA3,OpB4,50
