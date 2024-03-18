@@ -1,0 +1,34 @@
+---
+title: "Grp11data"
+format: html
+editor: visual
+---
+
+## Load data
+
+```{r}
+df = read.csv2("Grp11data.csv")
+str(df)
+df$Q08 = as.numeric(df$Q08)
+str(df)
+df$Gender = as.factor(df$Gender)
+df$Nation = as.factor(df$Nation)
+
+summary(df)
+
+hist(df$Age)
+
+
+# Aggregation
+df$final_score = rowSums(as.matrix(df[, c(5:10,15, 17 )]))
+```
+
+```{r}
+plot(x = df$Age, y = df$final_score)
+
+boxplot(df$final_score~df$Nation, xlab = "Nation", main = "This is a title", las = 1, notch = TRUE)
+
+boxplot(df$final_score~df$Gender)
+
+
+```
