@@ -4,12 +4,12 @@ format: html
 editor: visual
 ---
 
+# read in data
 
-
-# read in data 
+```{r}
 install.packages("readr") 
 library(readr) 
-data <- read.csv("alldata_together_optimizedforanalysis - Kopie.csv", sep = ";") 
+data <- read.csv("alldata_together_optimizedforanalysis_Kopie.csv", sep = ";") 
 library(magrittr) 
 library(dplyr)
 ```
@@ -55,7 +55,7 @@ filtered_data$final_score <- rowSums(as.matrix(filtered_data[, c(5:10,15, 16 )])
 
 ```{r}
 pdf("my_plot1.pdf")
-hist(filtered_data$Age,main = "Age Distribution of Survey Participants",xlab = "Age")
+hist(filtered_data$Age,main = "Age Distribution of Survey Participants",xlab = "Age", ylab="Number of participants")
 dev.off
 ```
 
@@ -68,8 +68,11 @@ dev.off
 ```
 
 ```{r}
-pdf("my_plots.pdf")
+pdf("my_plot3.pdf")
 boxplot(filtered_data$final_score~filtered_data$Nation, xlab = "Nation", ylab = "risk-taking index", main = "Risk-Taking Index Across Nations",las = 0,notch=TRUE)
-boxplot(filtered_data$final_score~filtered_data$Gender,xlab = "Gender", ylab = "risk-taking index", main="Risk-Taking Index by Gende")
+dev.off
+
+pdf("my_plot4.pdf")
+boxplot(filtered_data$final_score~filtered_data$Gender,xlab = "Gender", ylab = "risk-taking index", main="Risk-Taking Index by Gender")
 dev.off
 ```
